@@ -1,5 +1,3 @@
-A collection of Cisco Packet Tracer (.pkt) files detailing various network architectures. From simple LANs to complex WANs, this repository demonstrates hands-on experience with IP addressing, subnetting, Static/Dynamic Routing, and device configuration. If it pings, it's in here!
-
 # 💻 Network-Topology-Jedi-Archives
 
 ## 🌐 Overview: Multi-Branch Office Network
